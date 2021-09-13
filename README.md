@@ -1,5 +1,5 @@
 - 👋 Hi, I’m josephxeon
-- 👨🏻‍🦱 16 year old
+- 👨🏻‍🦱 17 years old
 - 🇲🇨 From Indonesia, Palangkaraya
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning nothing
