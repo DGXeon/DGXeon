@@ -1,4 +1,5 @@
 - 👋 Hi, I’m josephxeon
+- ❎ I am just a student, not programmer
 - 👨🏻‍🦱 17 years old
 - 🇲🇨 From Indonesia, Palangkaraya
 - 👀 I’m interested in javascript
