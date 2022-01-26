@@ -1,7 +1,7 @@
 - 👋 Hi, I’m josephxeon
 - ❎ I am just a student, not programmer
 - 👨🏻‍🦱 14 years old
-- 🇲🇨 From Indonesia, Palangkaraya
+- 🇲🇨 Born in Indonesia, Palangkaraya
 - 🇮🇳 Currently living in India, Northeast, Mizoram
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning nothing
