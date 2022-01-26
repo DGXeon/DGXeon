@@ -2,7 +2,7 @@
 - ❎ I am just a student, not programmer
 - 👨🏻‍🦱 14 years old
 - 🇲🇨 Born in Indonesia, Palangkaraya
-- 🇮🇳 Indian citizenship acquired in 2015, currently living in India, Northeast, Mizoram
+- 🇮🇳 Currently living in India, Northeast, Mizoram
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on whatsapp bots
