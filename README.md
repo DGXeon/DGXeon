@@ -1,5 +1,5 @@
 - 👋 Hi, I’m josephxeon
-- ❎ I am just a student, not programmer
+- ❎ I am just a student, not programmer or hacker
 - 👨🏻‍🦱 15 years old
 - 🇮🇳 Currently living in India, Northeast, Mizoram
 - 👀 I’m interested in javascript, html, php, cpp and python
