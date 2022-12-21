@@ -29,9 +29,10 @@
 
 ### :unicorn: My Stats :
 <p align="center"><a href="https://github.com/DGXeon/followers"><img title="Followers" src="https://img.shields.io/github/followers/DGXeon?color=red&style=flat-square"></a></p>
+<p align="center"><a href="https://komarev.com/ghpvc/?username=DGXeon&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=DGXeon&color=green&style=flat-square&label=Profile+View"></a>
+</p>
 <p align="center"><a href="https://github.com/DGXeon"><img src="https://github-readme-stats.vercel.app/api?username=DGXeon&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/DGXeon"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGXeon&theme=radical&layout=compact"></a></p>
-
 ---
 
 ### :unicorn: Repo Stats : 
