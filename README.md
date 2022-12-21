@@ -16,16 +16,16 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="http://Wa.me/916909137213">
-    <img src="https://img.shields.io/badge/Whatsapp Chat-blue?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
+    <img src="https://img.shields.io/badge/Whatsapp Personal Chat-blue?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
   <a href="https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS">
-    <img src="https://img.shields.io/badge/Whatsapp Group Chat-1-blue?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
+    <img src="https://img.shields.io/badge/Whatsapp Group Chat 1-blue?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
 <a href="https://chat.whatsapp.com/BW0o3ZyiAF5Azb1bIqG9Ue">
-    <img src="https://img.shields.io/badge/Whatsapp Group Chat-2-blue?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
+    <img src="https://img.shields.io/badge/Whatsapp Group Chat 2-blue?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
 <a href="https://chat.whatsapp.com/KMymhLdGcjPHihOkrfHW7q">
-    <img src="https://img.shields.io/badge/Whatsapp Group Chat-3-blue?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
+    <img src="https://img.shields.io/badge/Whatsapp Group Chat 3-blue?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
 </div>
 
