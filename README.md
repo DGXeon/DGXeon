@@ -1,5 +1,9 @@
 ### :unicorn: About Me :
 
+<p align="center">
+  <img src="https://i.ibb.co/CzMLmjW/IMG-20221221-123035.jpg" />
+</p>
+
 - 👋 Hi, I’m josephxeon
 - ❎ I am just a student, not programmer or hacker
 - 👨🏻‍🦱 15 years old
