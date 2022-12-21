@@ -37,6 +37,22 @@
 ### :unicorn: Repo Stats : 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=DGXeon&repo=CheemsBot-MD4&theme=radical)
 
+---
+
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=DGXeon)
+
+</details>
+
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/DGXeon?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FKolkata)
+
+</details> 
+
 <!---
 DreamGuyXeon/DreamGuyXeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
