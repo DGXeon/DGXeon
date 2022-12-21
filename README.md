@@ -10,6 +10,11 @@
 
 ---
 
+### :unicorn: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DGXeon&layout=compact&theme=vision-friendly-dark)](https://github.com/DGXeon?tab=repositories)
+
+---
+
 ### :unicorn: How To Reach Me :
 <p align="center">
 <a href="https://youtube.com/@DGXeon"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@DGXeon" /><br>
@@ -25,8 +30,3 @@
 DreamGuyXeon/DreamGuyXeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
----
-
-### :unicorn: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DGXeon&layout=compact&theme=vision-friendly-dark)](https://github.com/DGXeon?tab=repositories)
