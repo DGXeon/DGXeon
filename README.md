@@ -11,3 +11,8 @@
 DreamGuyXeon/DreamGuyXeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+---
+
+### :unicorn: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DGXeon&layout=compact&theme=vision-friendly-dark)](https://github.com/DGXeon/github-readme-stats)
