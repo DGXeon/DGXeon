@@ -4,7 +4,7 @@
   <img src="https://i.ibb.co/CzMLmjW/IMG-20221221-123035.jpg" />
 </p>
 
-- 👋 Hi, I’m josephxeon
+- 👋 Hi, I’m josephxeo
 - ❎ I am just a student, not programmer or hacker
 - 👨🏻‍🦱 15 years old
 - 🇮🇳 Currently living in India, Northeast, Mizoram
