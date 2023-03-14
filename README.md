@@ -5,7 +5,7 @@
 </p>
 
 - 👋 Hi, I’m josephxeon
-- ❎ I am just a student, not programmer or hacker
+- ❎ I am just a student (still learning) 
 - 👨🏻‍🦱 15 years old
 - 🇮🇳 Currently living in India, Northeast, Mizoram
 - 👀 I’m interested in javascript, html, php, cpp, c and python
