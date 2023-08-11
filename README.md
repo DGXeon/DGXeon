@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m josephxeon
 - ❎ I am just a student (still learning) 
-- 👨🏻‍🦱 15 years old (24/08/2008)
+- 👨🏻‍🦱 15 years old
 - 🇮🇳 Currently living in India, Northeast, Mizoram
 - 👀 I’m interested in javascript, html, php, cpp, c and python
 - 🌱 I’m currently studying Diploma In Computer Science And Engineering, At NIELIT, AIZAWL
