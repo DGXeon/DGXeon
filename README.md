@@ -5,22 +5,16 @@
 </p>
 
 - 👋 Hi, I’m josephxeon
-- ❎ I am just a student (still learning) 
+- ❎ I am just a student
 - 👨🏻‍🦱 16 years old
 - 🇮🇳 Currently living in India, Northeast, Mizoram
-- 👀 I’m interested in javascript, html, php, cpp, c and python
 - 🌱 I’m currently studying Diploma In Computer Science And Engineering, At NIELIT, AIZAWL
-- 💞️ I’m looking to collaborate on whatsapp bots, ai, website, graphics design.
 
 ---
 
 ### :unicorn: How To Reach Me :
 <p align="center">
 <a href="https://youtube.com/@DGXeon"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@DGXeon" /><br>
-<a href="http://Wa.me/916909137213">
-    <img src="https://img.shields.io/badge/Wa Pc-electric green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
-  </a>
-<a href="https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"><img src="https://img.shields.io/badge/Wa Gc 1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/BW0o3ZyiAF5Azb1bIqG9Ue"><img src="https://img.shields.io/badge/Wa Gc 2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/KMymhLdGcjPHihOkrfHW7q"><img src="https://img.shields.io/badge/Wa Gc 3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
