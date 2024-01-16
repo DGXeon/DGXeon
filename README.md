@@ -8,7 +8,7 @@
 - ❎ I am just a student
 - 👨🏻‍🦱 16 years old
 - 🇮🇳 Currently living in India, Northeast, Mizoram
-- 🌱 I’m currently studying Diploma In Computer Science And Engineering, At NIELIT, AIZAWL
+- 🌱 Studying Diploma In Computer Science And Engineering, At NIELIT, AIZAWL
 
 ---
 
