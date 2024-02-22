@@ -1,7 +1,7 @@
 ### :unicorn: About Me :
 
 <p align="center">
-  <img src="https://i.ibb.co/y5V49xM/91-6909-137-213-20230712-200427.jpg" />
+  <img src="https://i.ibb.co/YZ8tLPf/IMG-20240222-WA0139.jpg" />
 </p>
 
 - 👋 Hi, I’m josephxeon
