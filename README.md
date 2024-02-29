@@ -23,6 +23,15 @@
 
 ---
 
+### :unicorn: Donate Me :
+
+- [`Binance`](https://i.ibb.co/W2gYn6S/binance.png)
+- [`PayPal`](https://www.paypal.me/josephxeon13)
+- [`GooglePay`](https://i.ibb.co/yQkqBS2/donate.png)
+- [`FamPay`](https://i.ibb.co/w46VQ8D/Picsart-22-10-08-06-46-30-674.jpg)
+
+---
+
 ### :unicorn: My Stats :
 <p align="center"><a href="https://github.com/DGXeon/followers"><img title="Followers" src="https://img.shields.io/github/followers/DGXeon?color=red&style=flat-square"></a></p>
 <p align="center"><a href="https://komarev.com/ghpvc/?username=DGXeon&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=DGXeon&color=green&style=flat-square&label=Profile+View"></a>
