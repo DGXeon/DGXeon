@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m josephxeon
 - ❎ I am just a student (Beginner)
-- 👨🏻‍🦱 19 years old
+- 👨🏻‍🦱 17 years old
 - 🇮🇳 Currently living in India, Northeast, Mizoram
 - 🌱 Studying Diploma In Computer Science And Engineering, At NIELIT, AIZAWL
 
